@@ -103,5 +103,16 @@
   {
     "allotmentNo": "AL103"
   }
+],
+  "sidingcodes": [
+  {
+    "sidingcode": "S1"
+  },
+  {
+    "sidingcode": "S2"
+  },
+  {
+    "sidingcode": "S2"
+  }
 ]
 }

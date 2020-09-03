@@ -1,12 +1,14 @@
- "allotment":[
-
-  {
-    "allotmentNo": "AL101"
-  },
-  {
-    "allotmentNo": "AL102"
-  },
-  {
-    "allotmentNo": "AL103"
-  }
-]
+ "load": [
+    {
+      "loadingPt": "L1",
+      "loadingPtName": "Loading Point 1"
+    },
+    {
+      "loadingPt": "L2",
+      "loadingPtName": "Loading Point 2"
+    },
+    {
+      "loadingPt": "L3",
+      "loadingPtName": "Loading Point 3"
+    }
+  ]

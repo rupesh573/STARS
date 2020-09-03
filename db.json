@@ -1,14 +1,96 @@
- "load": [
+{
+  "destination": [
+    {
+      "destCd": "020",
+      "destName": "GKP"
+    },
+     {
+      "destCd": "056",
+      "destName": "JSR"
+    },
+     {
+      "destCd": "032",
+      "destName": "MUMBAI"
+    },
+     {
+      "destCd": "067",
+      "destName": "NDLS"
+    },
+    {
+      "destCd": "055",
+      "destName": "CHENNAI"
+    },
+     {
+      "destCd": "055",
+      "destName": "CHENNAI"
+    },
+     {
+      "destCd": "055",
+      "destName": "CHENNAI"
+    },
+     {
+      "destCd": "055",
+      "destName": "CHENNAI"
+    },
+     {
+      "destCd": "055",
+      "destName": "CHENNAI"
+    },
+     {
+      "destCd": "055",
+      "destName": "CHENNAI"
+    },
+     {
+      "destCd": "055",
+      "destName": "CHENNAI"
+    },
+     {
+      "destCd": "055",
+      "destName": "CHENNAI"
+    },
+     {
+      "destCd": "055",
+      "destName": "CHENNAI"
+    },
+     {
+      "destCd": "055",
+      "destName": "CHENNAI"
+    }
+  ],
+    "load": [
     {
       "loadingPt": "L1",
       "loadingPtName": "Loading Point 1"
     },
-    {
+     {
       "loadingPt": "L2",
       "loadingPtName": "Loading Point 2"
     },
-    {
+     {
       "loadingPt": "L3",
       "loadingPtName": "Loading Point 3"
-    }
+    }    
+  ],
+      "wgnStatus": [
+    {
+      "status": "SPLE"
+    },
+     {
+      "status": "SPLC"     
+    }   
+  ],
+   "deliveryNumber": [
+    {
+      "deliveryNo": "0895541232"
+    },
+     {
+      "deliveryNo": "0895541233"     
+    },
+      {
+      "deliveryNo": "0895541234"     
+    },
+      {
+      "deliveryNo": "0895541235"     
+    }  
   ]
+}

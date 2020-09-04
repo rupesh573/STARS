@@ -57,20 +57,7 @@
       "destName": "CHENNAI"
     }
   ],
-    "load": [
-    {
-      "loadingPt": "L1",
-      "loadingPtName": "Loading Point 1"
-    },
-     {
-      "loadingPt": "L2",
-      "loadingPtName": "Loading Point 2"
-    },
-     {
-      "loadingPt": "L3",
-      "loadingPtName": "Loading Point 3"
-    }    
-  ],
+   
       "wgnStatus": [
     {
       "status": "SPLE"
